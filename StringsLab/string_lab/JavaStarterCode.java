@@ -1,92 +1,92 @@
-class StringUtilities {
+public class JavaStarterCode {
 
     // Stub for counting the number of letters in a word
-    countLetters(word) {
+    public int countLetters(String word) {
         // Implementation needed
         return 0;
     }
 
     // Stub for counting the total number of letters in two strings
-    countLettersTwice(a, b) {
+    public int countLettersTwice(String a, String b) {
         // Implementation needed
         return 0;
     }
 
     // Stub for returning the string that comes first alphabetically
-    alphabeticallyOrder(a, b) {
+    public String alphabeticallyOrder(String a, String b) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for counting the number of vowels in a word
-    countVowels(word) {
+    public int countVowels(String word) {
         // Implementation needed
         return 0;
     }
 
     // Stub for counting the number of consonants in a word
-    countConsonants(word) {
+    public int countConsonants(String word) {
         // Implementation needed
         return 0;
     }
 
     // Stub for converting all letters in the word to uppercase
-    allUppercase(word) {
+    public String allUppercase(String word) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for converting all letters in the word to lowercase
-    allLowercase(word) {
+    public String allLowercase(String word) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for swapping the case of each letter in the word
-    caseSwap(word) {
+    public String caseSwap(String word) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for applying a Caesar cipher to the word with a given shift
-    caesarCipher(word, shift) {
+    public String caesarCipher(String word, int shift) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for counting the number of words in a sentence
-    countWords(sentence) {
+    public int countWords(String sentence) {
         // Implementation needed
         return 0;
     }
 
     // Stub for capitalizing the first letter of every word in a sentence
-    capitalWords(sentence) {
+    public String capitalWords(String sentence) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for extracting a subsection of a sentence
-    subsection(sentence, a, b) {
+    public String subsection(String sentence, int a, int b) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for reversing a string
-    stringReverse(s) {
+    public String stringReverse(String s) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for reversing each word in a sentence
-    wordReverse(sentence) {
+    public String wordReverse(String sentence) {
         // Implementation needed
-        return "";
+        return null;
     }
 
     // Stub for reversing the order of words in a sentence
-    sentenceReverse(sentence) {
+    public String sentenceReverse(String sentence) {
         // Implementation needed
-        return "";
+        return null;
     }
 }
